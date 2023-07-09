@@ -11,15 +11,13 @@
 
 
 body {
-  /* height: 100vh; */
-  background-color: aqua;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .container {
-  background-color: bisque;
+    background-color: #ffcd9e;
   height: 60rem;
   width: 100%;
 }
