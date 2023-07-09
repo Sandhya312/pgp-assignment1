@@ -60,7 +60,6 @@ margin-top:20px;
 }
 
 .container .main .main-text .show{
-    font-family: Inter;
 font-size: 20px;
 font-weight: 800;
 line-height: 32px;
@@ -68,8 +67,37 @@ letter-spacing: 0em;
 text-align: left;
 color: #282828;
 margin:30px 0;
+}
 
-;
+.container .main .main-text input{
+    padding:2% 3%;
+    border: 5px solid black;
+    border-radius: 10px;
+    outline: none;
+    width: 22rem;
+    margin-right: 5px;
+    font-size: 20px;
+font-weight: 600;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+color: #282828;
+}
+
+.container .main .main-text button{
+    padding: 3% 8%;
+    height: 4.5rem;
+ color: #FFFFFF;
+    background-color: #282828;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
 }
 
 .container .main .main-img{
